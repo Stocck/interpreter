@@ -1,0 +1,1 @@
+321;asda = asd = 564 if break(123)
